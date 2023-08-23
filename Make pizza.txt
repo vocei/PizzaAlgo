@@ -1,4 +1,6 @@
-Make pizza 
-give the pizza to the customer
-dont forget the drink
+Step 1: Make pizza 
+Step 2: Give the pizza to the customer
+Step 3: Dont forget the drink
+
+Step 4: If customer complains throw pizza at their face and say "this ones on the house!"
 working on feature on whit branch
